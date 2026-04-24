@@ -163,17 +163,6 @@ ConnectionStrings__Default = Host=<rds-endpoint>;Port=5432;Database=productsdb;U
 ```
 
 ---
-
-## 🔑 Diferença para o Vídeo 1 (Lambda)
-
-| | Lambda (vídeo 1) | Elastic Beanstalk (vídeo 2) |
-|--|--|--|
-| Compute | Serverless (função) | EC2 (servidor sempre ligado) |
-| Escala | Automática | Configurável |
-| Custo | Pay per request | Pay per hour (EC2) |
-| Setup infra | Manual | Automático (wizard/CLI) |
-| Ideal para | APIs esporádicas | APIs com tráfego contínuo |
-
 ---
 
 ## 📝 Aprendizados
