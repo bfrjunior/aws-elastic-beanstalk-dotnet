@@ -5,3 +5,5 @@ obj/
 .idea/
 *.suo
 *.log
+publish/
+*.zip
